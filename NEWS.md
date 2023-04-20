@@ -1,3 +1,5 @@
 # dunnetgent 0.8
 
-* Added a `NEWS.md` file to track changes to the package.
+## April 20, 2023
+
+First version of `beaup` & `dunnettgent`.

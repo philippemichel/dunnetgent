@@ -36,8 +36,10 @@ write a beautifull p-value.
 
 ```r
 > beaup(0.005, affp = TRUE)
-
 [1] "p = 0.005"
+
+> beaup(0.0005, affp = TRUE)
+[1] "p < 0.001"
 ```
 
 

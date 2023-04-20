@@ -16,7 +16,7 @@
 beaup <- function(varp, affp = FALSE) {
   if (varp < 0.0011) {
     if (affp) {
-      beaup <- "**p < 0.001**"
+      beaup <- "p < 0.001"
     }
     else {
       beaup <- "< 0.001"
